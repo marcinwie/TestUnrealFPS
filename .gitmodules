@@ -1,0 +1,3 @@
+[submodule "Plugins/GitSourceControl"]
+	path = Plugins/GitSourceControl
+	url = https://github.com/marcinwie/UEGitPlugin.git
